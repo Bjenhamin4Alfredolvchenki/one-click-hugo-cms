@@ -3849,10 +3849,10 @@ debug@^4.0.0, debug@^4.1.0, debug@^4.1.1, debug@^4.3.1:
   dependencies:
     ms "2.1.2"
 
-decap-cms-app@^3.0.2:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/decap-cms-app/-/decap-cms-app-3.2.1.tgz#0254ca1de7033749a61177c027f1f9260a74f414"
-  integrity sha512-Lxi5Gg+z8u51BrVguvwFoNB0djadhrvxwajjZdvyL73/R1RQ+R0T4kxQ9AwFrAnku/XNJbPIePr9cXai4n5rjQ==
+decap-cms-app@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/decap-cms-app/-/decap-cms-app-3.3.0.tgz#b91304a81dcb3e6ef35958201dcb40dc5d9a3124"
+  integrity sha512-WKN90rMTZaTVvIeO+QL/3KsasdAb6DQHgMecpLIVUFnCXH57CUwaqPqIKHQU3BCOUcbYiABcjhujdXZmf1V8OQ==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
@@ -3876,7 +3876,7 @@ decap-cms-app@^3.0.2:
     decap-cms-widget-boolean "^3.1.1"
     decap-cms-widget-code "^3.1.2"
     decap-cms-widget-colorstring "^3.1.1"
-    decap-cms-widget-datetime "^3.1.5"
+    decap-cms-widget-datetime "^3.2.0"
     decap-cms-widget-file "^3.1.1"
     decap-cms-widget-image "^3.1.1"
     decap-cms-widget-list "^3.2.0"
@@ -4090,10 +4090,10 @@ decap-cms-widget-colorstring@^3.1.1:
     react-color "^2.18.1"
     tinycolor2 "^1.4.1"
 
-decap-cms-widget-datetime@^3.1.5:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/decap-cms-widget-datetime/-/decap-cms-widget-datetime-3.1.5.tgz#cf3c39cbfb8441cae47c360c5b6ed94803559da3"
-  integrity sha512-WOuPn9TpDlptk1YuJDV5SCPHPfQls0naxpwHcGdnKmLm2k7R0vQoAmwEWo6sv52VWr0S4ytgjsZaCjkMPWFlxg==
+decap-cms-widget-datetime@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/decap-cms-widget-datetime/-/decap-cms-widget-datetime-3.2.0.tgz#624e2ace9accac987cd6dbcafe844f7e441f5327"
+  integrity sha512-6kpm57Z7hVwT02PcVrXBNEvmsdFSq0vKGsiICml6Z/CDFmdWrjyFK2+wYp18WOWHDu6p4jlajE+K8Rn3RKv2Cg==
   dependencies:
     dayjs "^1.11.10"
 
